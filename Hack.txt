@@ -1,0 +1,15 @@
+I Designed the Menu at start.
+
+I created the namespace SampleFramework and Created UI layer. create Medicals inside  Class inside it, which
+holds the string type values which the user inputs.
+
+
+
+In my second Namespace Database, I created Class DiseaseDatabase in which I have written the function of AddingDisease, Symptoms, and patient details.
+
+My 3rd Namespace is UI, UI class.
+This consists Menu Design, Repo, main Test for Console, and have written function to take inputs from the user.
+
+And  last Namespace MedicalConsole, I have done a class Medical, in which the main Function Medical() starts the whole process.
+
+I have written Utilities in other class file, defined GetNumber and string in Utilities.
